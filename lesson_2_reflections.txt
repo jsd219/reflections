@@ -9,3 +9,6 @@ compare the staging area to commit 1
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Anytime you want to make a significant change to the code. Making various modes or for different platforms
+
+How do the diagrams help you visualize the branch structure?
+I can follow the paths
