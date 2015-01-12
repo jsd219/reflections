@@ -3,3 +3,6 @@ it tells git to set up. If you want to track changes you need to set up git
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 the staging area is the set up for the commit. The working directory is your current set of files. The staging area is also different from the respository because it is the prepared files for the repository
+
+How can you use the staging area to make sure you have one commit per logical change?
+compare the staging area to commit 1
