@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+it tells git to set up. If you want to track changes you need to set up git
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+the staging area is the set up for the commit. The working directory is your current set of files. The staging area is also different from the respository because it is the prepared files for the repository
