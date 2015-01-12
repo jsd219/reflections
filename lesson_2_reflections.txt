@@ -12,3 +12,9 @@ Anytime you want to make a significant change to the code. Making various modes 
 
 How do the diagrams help you visualize the branch structure?
 I can follow the paths
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+you now have one branch with all the changes from both previous branches. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+pros = less work; cons = it doesn't resolve conflicts
