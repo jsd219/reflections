@@ -6,3 +6,6 @@ the staging area is the set up for the commit. The working directory is your cur
 
 How can you use the staging area to make sure you have one commit per logical change?
 compare the staging area to commit 1
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Anytime you want to make a significant change to the code. Making various modes or for different platforms
