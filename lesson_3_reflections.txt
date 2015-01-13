@@ -11,3 +11,6 @@ c) a branch is part of a commit path
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 you can work offline?
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+We would send files back and forth to each other or directly edit them on the server. it might be easier to edit the files directly on the server but it deffinately is not the best practice and could and usually does lead to code conflicts and errors.
