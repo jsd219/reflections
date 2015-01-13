@@ -14,3 +14,6 @@ you can work offline?
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 We would send files back and forth to each other or directly edit them on the server. it might be easier to edit the files directly on the server but it deffinately is not the best practice and could and usually does lead to code conflicts and errors.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+seperate branches allow you to have diiferent versions of the code i.e. an IOs, Android and Web version
